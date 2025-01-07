@@ -35,7 +35,7 @@ Among all classifiers tested, Logistic Regression delivered the best accuracy at
 | SVM                 | 98.85        |
 
 ### Comparison Graph
-![Accuracy Bar Graph](#) <!-- Add the path to your image file here -->
+![Accuracy Bar Graph](![image](https://github.com/user-attachments/assets/d995792d-5037-4516-8a46-35e2b76e5b19)) 
 
 ### Sample Output
 | Image Recognized     | Image Not Recognized     |
@@ -44,7 +44,7 @@ Among all classifiers tested, Logistic Regression delivered the best accuracy at
 
 ---
 
-## 🌟 **Future Scope**
+## **Future Scope**
 
 - **Deep Learning Integration**: Explore CNN-based architectures for feature extraction.
 - **Real-Time Processing**: Enhance performance for instantaneous face recognition.
@@ -53,7 +53,7 @@ Among all classifiers tested, Logistic Regression delivered the best accuracy at
 
 ---
 
-## 📄 **Published Paper**
+## **Published Paper**
 
-You can read the full research paper here: [Robust Face Detection and Identification Using HOG-based Features and Machine Learning](https://doi.org/10.1109/INCOFT60753.2023.10425077). <!-- Replace `#` with the actual link to your published paper -->
+You can read the full research paper here: [Robust Face Detection and Identification Using HOG-based Features and Machine Learning](https://doi.org/10.1109/INCOFT60753.2023.10425077). 
 
