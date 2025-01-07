@@ -38,7 +38,7 @@ Among all classifiers tested, Logistic Regression delivered the best accuracy at
 ### Sample Output
 | Image Recognized     | Image Not Recognized     |
 |-----------------------|--------------------------|
-| ![Recognized](Images/Recognised.png)      | ![Not Recognized](Images/Not Recognised.png)     |
+| ![Recognized](Images/Recognised.png)      | ![Not Recognized](Images/Not_Recognised.png)     |
 
 ---
 
