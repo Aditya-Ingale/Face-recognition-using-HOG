@@ -34,13 +34,11 @@ Among all classifiers tested, Logistic Regression delivered the best accuracy at
 | Random Forest       | 99.62        |
 | SVM                 | 98.85        |
 
-### Comparison Graph
-![Accuracy Bar Graph](![image](https://github.com/user-attachments/assets/d995792d-5037-4516-8a46-35e2b76e5b19)) 
 
 ### Sample Output
 | Image Recognized     | Image Not Recognized     |
 |-----------------------|--------------------------|
-| ![Recognized]()      | ![Not Recognized](Images/Not Recognised.png)     |
+| ![Recognized](Images/Recognised.png)      | ![Not Recognized](Images/Not Recognised.png)     |
 
 ---
 
