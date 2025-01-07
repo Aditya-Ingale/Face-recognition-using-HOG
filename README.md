@@ -27,14 +27,6 @@ This project focuses on developing a robust face recognition system using HOG-ba
 
 Among all classifiers tested, Logistic Regression delivered the best accuracy at **99.54%**. This showcases the potential for robust and efficient face recognition when combining preprocessing, feature extraction, and machine learning.
 
-| Classifier          | Accuracy (%) |
-|---------------------|--------------|
-| Logistic Regression | 99.54        |
-| KNN                 | 97.12        |
-| Random Forest       | 99.62        |
-| SVM                 | 98.85        |
-
-
 ### Sample Output
 | Image Recognized     | Image Not Recognized     |
 |-----------------------|--------------------------|
