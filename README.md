@@ -43,7 +43,5 @@ Among all classifiers tested, Logistic Regression delivered the best accuracy at
 
 ---
 
-## **Published Paper**
-
-You can read the full research paper here: [Robust Face Detection and Identification Using HOG-based Features and Machine Learning](https://doi.org/10.1109/INCOFT60753.2023.10425077). 
+For more details, refer to the published paper: [Robust Face Detection and Identification Using HOG-based Features and Machine Learning](https://doi.org/10.1109/INCOFT60753.2023.10425077). 
 
